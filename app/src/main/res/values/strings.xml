@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">GalgeGIT</string>
+
+    <!--strings for the MainActivity-->
+    <string name="welcome">Velkommen til galgespillet.\nskriv et bogstav ad gangen, og \nforsøg at gætte ordet\n held og lykke!</string>
+    <string name="play">spil</string>
+    <string name="info">info</string>
+    <string name="other">andet</string>
+    <string name="information">information</string>
+
+
+    <!--strings for the Main2Activity-->
+    <string name="back">tilbage</string>
+    <string name="guess">gæt</string>
+    <string name="wrong_letters">forkerte bogstaver</string>
+    <string name="you_lost">du har tabt</string>
+    <string name="you_won">du har vundet</string>
+
+
 </resources>
