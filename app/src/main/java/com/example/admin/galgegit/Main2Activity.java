@@ -145,26 +145,26 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
     private void changeImage(int antalForkerteBogstaver) {
         switch (antalForkerteBogstaver) {
             case 1:
-//                imageViewHangingMan.setImageResource(R.drawable.wrong2);
+                imageViewHangingMan.setImageResource(R.drawable.wrong2);
                 break;
             case 2:
-//                imageViewHangingMan.setImageResource(R.drawable.wrong3);
+                imageViewHangingMan.setImageResource(R.drawable.wrong3);
                 break;
             case 3:
-//                imageViewHangingMan.setImageResource(R.drawable.wrong4);
+                imageViewHangingMan.setImageResource(R.drawable.wrong4);
                 break;
             case 4:
-//                imageViewHangingMan.setImageResource(R.drawable.wrong5);
+                imageViewHangingMan.setImageResource(R.drawable.wrong5);
                 break;
             case 5:
-//                imageViewHangingMan.setImageResource(R.drawable.wrong6);
+                imageViewHangingMan.setImageResource(R.drawable.wrong6);
                 break;
             case 6:
- //               imageViewHangingMan.setImageResource(R.drawable.wrong7);
- //               startAnimationAlmostLost();
+               imageViewHangingMan.setImageResource(R.drawable.wrong7);
+               startAnimationAlmostLost();
                 break;
             case 7:
- //               imageViewHangingMan.setImageResource(R.drawable.wrong7);
+               imageViewHangingMan.setImageResource(R.drawable.wrong7);
                 break;
         }
     }
