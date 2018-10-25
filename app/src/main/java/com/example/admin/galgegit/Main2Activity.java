@@ -30,6 +30,12 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
     GalgeLogik galgeLogik;
 
 
+    //TODO
+    //cached files for highscore list and strings of words from the internet.
+    //make a background thread for networking while game is being played.
+    //use fragments.
+    //others
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
